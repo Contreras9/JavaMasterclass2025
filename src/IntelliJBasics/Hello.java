@@ -1,7 +1,9 @@
+package IntelliJBasics;
+
 public class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello, Yared");
+        System.out.println("IntelliJBasics.Hello, Yared");
 
         boolean isAlien = false;
         if (isAlien == false) {
